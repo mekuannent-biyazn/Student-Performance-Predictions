@@ -100,9 +100,9 @@ This repository contains:
 
 **Student Name** ……………………………………..**ID**
 
-- 1.Mengistu Animut……………………………… 0963
+- 1.Mengistu Animut………………………………… 0963
 - 2.Mekuanennt Biazin……………………………… 1385
-- 3.Mengistu Semahegn………………………… 0916
+- 3.Mengistu Semahegn…………………………… 0916
 - 4.Samuel Erstie .……………………………………. 1644
 - 5.Mussie Melese ….………………………………… 1194
 
